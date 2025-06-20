@@ -70,6 +70,12 @@
     <Compile Include="ManageMenu.Designer.cs">
       <DependentUpon>ManageMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="ManageOrderStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageOrderStatus.Designer.cs">
+      <DependentUpon>ManageOrderStatus.cs</DependentUpon>
+    </Compile>
     <Compile Include="ManageUserProfile.cs">
       <SubType>Form</SubType>
     </Compile>
