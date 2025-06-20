@@ -78,6 +78,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ManageBookingTable.resx">
+      <DependentUpon>ManageBookingTable.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ManageUserProfile.resx">
       <DependentUpon>ManageUserProfile.cs</DependentUpon>
     </EmbeddedResource>
