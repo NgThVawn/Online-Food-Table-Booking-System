@@ -96,6 +96,9 @@
     <EmbeddedResource Include="ManageMenu.resx">
       <DependentUpon>ManageMenu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ManageOrderStatus.resx">
+      <DependentUpon>ManageOrderStatus.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ManageUserProfile.resx">
       <DependentUpon>ManageUserProfile.cs</DependentUpon>
     </EmbeddedResource>
