@@ -87,6 +87,9 @@
     <EmbeddedResource Include="ManageBookingTable.resx">
       <DependentUpon>ManageBookingTable.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ManageMenu.resx">
+      <DependentUpon>ManageMenu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ManageUserProfile.resx">
       <DependentUpon>ManageUserProfile.cs</DependentUpon>
     </EmbeddedResource>
