@@ -64,6 +64,12 @@
     <Compile Include="ManageBookingTable.Designer.cs">
       <DependentUpon>ManageBookingTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="ManageMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageMenu.Designer.cs">
+      <DependentUpon>ManageMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="ManageUserProfile.cs">
       <SubType>Form</SubType>
     </Compile>
